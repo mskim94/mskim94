@@ -5,6 +5,8 @@
 ## Interest
 ML, DL
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mskim94&show_icons=true&theme=gotham" alt="mskim94" />
+
 <div align=center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsung-kim-b54706189/)](https://www.linkedin.com/in/minsung-kim-b54706189//)
@@ -24,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mskim94&show_icons=true&theme=gotham" alt="mskim94" />
