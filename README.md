@@ -1,4 +1,5 @@
-## Master's degree course
+## Welcome to MSKim GITHUB
+Master's degree course
 🌱 I’m currently learning ML
 
 
