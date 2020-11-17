@@ -1,6 +1,6 @@
 ## Welcome to MSKim GITHUB
-Master's degree course
-🌱 I’m currently learning ML
+🌱 Master's degree course
+
 
 
 ## Interest
@@ -9,7 +9,7 @@ ML, DL
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mskim94&show_icons=true&theme=gotham" alt="mskim94" />
 
 
-<div align=center>
+<div align=left>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsung-kim-b54706189/)](https://www.linkedin.com/in/minsung-kim-b54706189//)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kms16101@gmail.com)
