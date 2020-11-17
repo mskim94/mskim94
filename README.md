@@ -4,7 +4,7 @@
 
 
 ## Interest
-ML, DL
+ML, DL, CS
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mskim94&show_icons=true&theme=gotham" alt="mskim94" />
 
